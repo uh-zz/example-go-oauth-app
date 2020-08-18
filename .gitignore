@@ -1,0 +1,8 @@
+.DS_Store
+._.DS_Store
+metas/
+vendor
+conf/app.conf
+go.mod
+go.sum
+example-go-oauth-app
